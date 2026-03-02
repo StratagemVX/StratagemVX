@@ -127,6 +127,34 @@ Philosophy: "Data is the new gold"
 
 <div align="center">
 
+## 🗺️ CURRENT MISSION MAP
+
+```mermaid
+graph TD
+    CORE(["⚡ STRATAGEM VX"]):::core
+    
+    CORE --> AI(["🤖 AI & Deep Learning"]):::node
+    CORE --> SEC(["🛡️ Cyber Security"]):::node
+    CORE --> WEB(["🌐 Next.js Mastery"]):::node
+    CORE --> MOB(["📱 Mobile Dev"]):::node
+    CORE --> UIX(["🎨 UI/UX Design"]):::node
+    
+    AI & SEC & WEB & MOB & UIX --> DEPLOY(["🚀 Production Ready"]):::deploy
+    
+    DEPLOY --> IMPACT(["🌍 Empowering Humanity"]):::impact
+
+    classDef core fill:#7c3aed,stroke:#a855f7,stroke-width:2px,color:#fff
+    classDef node fill:#1e1b4b,stroke:#6d28d9,stroke-width:1.5px,color:#c4b5fd
+    classDef deploy fill:#4a00e0,stroke:#a855f7,stroke-width:2px,color:#fff
+    classDef impact fill:#2d1b69,stroke:#7c3aed,stroke-width:1.5px,color:#c4b5fd
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🔮 TECH ARSENAL
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,nodejs,express,mysql,mongodb,tensorflow,pytorch,docker,git,linux,vscode&perline=8" />
