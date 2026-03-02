@@ -180,10 +180,22 @@ graph TD
 
 ## 📊 GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=StratagemVX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=a855f7&icon_color=a855f7&text_color=e0e0ff&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=StratagemVX&theme=tokyonight&hide_border=true&background=0a0a2e&stroke=a855f7&ring=a855f7&fire=e040fb&currStreakLabel=a855f7&sideLabels=e0e0ff&dates=8888aa" />
+<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StratagemVX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=a855f7&text_color=e0e0ff" />
+<a href="https://github.com/StratagemVX">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=StratagemVX&theme=midnight-purple&hide_border=true&background=0a0a2e&stroke=1e1b4b&ring=a855f7&fire=e040fb&currStreakNum=e0e0ff&currStreakLabel=a855f7&sideNums=e0e0ff&sideLabels=c4b5fd&dates=6d28d9" />
+</a>
+<a href="https://github.com/StratagemVX">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=StratagemVX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd&count_private=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/StratagemVX">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StratagemVX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=a855f7&text_color=c4b5fd" />
+</a>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=StratagemVX&bg_color=0a0a2e&color=c4b5fd&line=a855f7&point=e040fb&area=true&area_color=7c3aed&hide_border=true&custom_title=📈%20Contribution%20Graph" />
 
 </div>
 
